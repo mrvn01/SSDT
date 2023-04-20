@@ -1,0 +1,103 @@
+20.04.2023 12:43:31	Dieses Protokoll enthält Informationen über den Importvorgang eines Schemas in das Projekt "SSDT" auf dem Computer "SNC-NB-972" durch den Benutzer "mwaade".
+20.04.2023 12:43:32	Der Import des Datenbankschemas wurde gestartet.
+20.04.2023 12:43:33	Fehlermeldungen werden ermittelt.
+20.04.2023 12:43:33	Kryptografieanbieter werden ermittelt.
+20.04.2023 12:43:33	Anmeldeinformationen werden ermittelt.
+20.04.2023 12:43:33	Anmeldungen werden ermittelt.
+20.04.2023 12:43:33	Serverrollen werden ermittelt.
+20.04.2023 12:43:33	Serverrollenmitgliedschaften werden ermittelt.
+20.04.2023 12:43:33	Verbindungsserver werden ermittelt.
+20.04.2023 12:43:33	Anmeldungen für Verbindungsserver werden ermittelt.
+20.04.2023 12:43:33	Routen werden ermittelt.
+20.04.2023 12:43:33	DDL-Trigger werden ermittelt.
+20.04.2023 12:43:33	Verschlüsselte Trigger und CLR-DDL-Trigger werden ermittelt.
+20.04.2023 12:43:33	Ereignisbenachrichtigungen werden ermittelt.
+20.04.2023 12:43:33	Serverüberwachungen werden ermittelt.
+20.04.2023 12:43:33	Serverüberwachungsspezifikationen werden ermittelt.
+20.04.2023 12:43:33	Ereignisbenachrichtigungen werden ermittelt.
+20.04.2023 12:43:37	Datenbankanmeldeinformationen werden ermittelt.
+20.04.2023 12:43:37	Datenbankoptionen werden ermittelt.
+20.04.2023 12:43:37	Option zum Erfassen der generischen datenbankweit gültigen Konfiguration
+20.04.2023 12:43:37	Benutzer werden ermittelt.
+20.04.2023 12:43:37	Rollen werden ermittelt.
+20.04.2023 12:43:37	Anwendungsrollen werden ermittelt.
+20.04.2023 12:43:37	Rollenmitgliedschaften werden ermittelt.
+20.04.2023 12:43:37	Dateigruppen werden ermittelt.
+20.04.2023 12:43:37	Dateien werden ermittelt.
+20.04.2023 12:43:37	Volltextkataloge werden ermittelt.
+20.04.2023 12:43:37	Assemblys werden ermittelt.
+20.04.2023 12:43:37	Zertifikate werden ermittelt.
+20.04.2023 12:43:37	Asymmetrische Schlüssel werden ermittelt.
+20.04.2023 12:43:37	Symmetrische Schlüssel werden ermittelt.
+20.04.2023 12:43:37	Verschlüsselte symmetrische Schlüssel werden ermittelt.
+20.04.2023 12:43:37	Verschlüsselungsschlüssel für Datenbank werden ermittelt.
+20.04.2023 12:43:37	Schemas werden ermittelt.
+20.04.2023 12:43:37	XML-Schemaauflistungen werden ermittelt.
+20.04.2023 12:43:37	Benutzerdefinierte Datentypen werden ermittelt.
+20.04.2023 12:43:37	Benutzerdefinierte Typen werden ermittelt.
+20.04.2023 12:43:37	Tabellentypen werden ermittelt.
+20.04.2023 12:43:37	Eindeutige Schlüssel für Tabellentypen werden ermittelt
+20.04.2023 12:43:37	Primärschlüssel für Tabellentypen werden ermittelt.
+20.04.2023 12:43:37	Indizes für Tabellentypen werden ermittelt
+20.04.2023 12:43:37	CHECK-Einschränkungen für Tabellentypen werden ermittelt.
+20.04.2023 12:43:37	DEFAULT-Einschränkungen für Tabellentypen werden ermittelt.
+20.04.2023 12:43:37	Partitionsfunktionen werden ermittelt.
+20.04.2023 12:43:37	Partitionsschemas werden ermittelt.
+20.04.2023 12:43:37	Funktionen werden ermittelt.
+20.04.2023 12:43:37	Verschlüsselte Funktionen werden gesammelt.
+20.04.2023 12:43:37	Aggregate werden ermittelt.
+20.04.2023 12:43:37	Prozeduren werden ermittelt.
+20.04.2023 12:43:37	Verschlüsselte Prozeduren werden gesammelt.
+20.04.2023 12:43:37	Tabellen werden ermittelt.
+20.04.2023 12:43:37	Primärschlüssel werden ermittelt.
+20.04.2023 12:43:37	UNIQUE-Einschränkungen werden ermittelt.
+20.04.2023 12:43:37	Fremdschlüssel werden ermittelt.
+20.04.2023 12:43:37	Standardeinschränkungen werden ermittelt.
+20.04.2023 12:43:37	CHECK-Einschränkungen werden ermittelt.
+20.04.2023 12:43:37	Sichten werden ermittelt.
+20.04.2023 12:43:37	Verschlüsselte Sichten werden gesammelt.
+20.04.2023 12:43:37	Indizes werden ermittelt.
+20.04.2023 12:43:37	Statistiken werden ermittelt.
+20.04.2023 12:43:37	Volltextindex-Stopplisten werden ermittelt.
+20.04.2023 12:43:37	Sucheigenschaftenlisten werden ermittelt.
+20.04.2023 12:43:37	Sucheigenschaften werden ermittelt.
+20.04.2023 12:43:37	Volltextindizes werden ermittelt.
+20.04.2023 12:43:38	Columnstore-Indizes werden gesammelt
+20.04.2023 12:43:38	Räumliche Indizes werden ermittelt.
+20.04.2023 12:43:38	XML-Indizes werden ermittelt.
+20.04.2023 12:43:38	Selektive XML-Indexe werden ermittelt.
+20.04.2023 12:43:38	Verschlüsselte Trigger werden gesammelt.
+20.04.2023 12:43:38	Trigger werden ermittelt.
+20.04.2023 12:43:38	Verschlüsselte Trigger und CLR-DDL-Trigger werden ermittelt.
+20.04.2023 12:43:38	DDL-Trigger werden ermittelt.
+20.04.2023 12:43:38	Edgeeinschränkungen werden erstellt.
+20.04.2023 12:43:38	Synonyme werden ermittelt.
+20.04.2023 12:43:38	Standardwerte werden ermittelt.
+20.04.2023 12:43:38	UDDT-Bindungen für Dateneinschränkungen werden gesammelt.
+20.04.2023 12:43:38	Regeln werden ermittelt.
+20.04.2023 12:43:38	UDDT-Bindungen für Dateneinschränkungen werden gesammelt.
+20.04.2023 12:43:38	Nachrichtentypen werden ermittelt.
+20.04.2023 12:43:38	Warteschlangen werden ermittelt.
+20.04.2023 12:43:38	Verträge werden ermittelt.
+20.04.2023 12:43:38	Dienste werden ermittelt.
+20.04.2023 12:43:38	Routen werden ermittelt.
+20.04.2023 12:43:38	Ereignisbenachrichtigungen werden ermittelt.
+20.04.2023 12:43:38	Remotedienstbindungen werden ermittelt.
+20.04.2023 12:43:38	Broker-Prioritäten werden ermittelt.
+20.04.2023 12:43:38	Datenbanküberwachungsspezifikationen werden ermittelt.
+20.04.2023 12:43:38	Signaturen werden ermittelt.
+20.04.2023 12:43:38	Datenkomprimierungsoptionen werden ermittelt.
+20.04.2023 12:43:38	Sequenztypen werden ermittelt.
+20.04.2023 12:43:38	Sicherheitsrichtlinien werden ermittelt
+20.04.2023 12:43:38	Verschlüsselungsschlüssel für Spalten werden ermittelt
+20.04.2023 12:43:38	Hauptschlüssel für Spalten werden ermittelt
+20.04.2023 12:43:38	Externe Datenquellen werden gesammelt
+20.04.2023 12:43:38	Externe Dateiformate werden gesammelt
+20.04.2023 12:43:38	Externe Tabellen werden gesammelt
+20.04.2023 12:43:38	Erweiterte Eigenschaften werden ermittelt.
+20.04.2023 12:43:38	Assemblys werden ermittelt.
+20.04.2023 12:43:38	Das Projekt wird auf doppelte Elemente überprüft.
+20.04.2023 12:43:38	Die Verarbeitung doppelter Elemente wurde abgeschlossen.
+20.04.2023 12:43:38	Datenbankimport abgeschlossen.
+20.04.2023 12:43:38	Eine Zusammenfassung des Importvorgangs wurde an folgendem Ort gespeichert: C:\Users\mwaade\source\repos\SSDT TEST\SSDT\Schemaprotokolle importieren\SSDT_20230420104331.log
+20.04.2023 12:43:38	Klicken Sie auf "Fertig stellen", um den Vorgang fortzusetzen...
